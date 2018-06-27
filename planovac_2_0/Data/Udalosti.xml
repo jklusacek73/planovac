@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUdalost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Udalost>
+    <datum>2017-06-18T00:00:00</datum>
+    <nazev>Narozeniny (babička)</nazev>
+    <druh>Rodina</druh>
+    <popis>89. narozeniny</popis>
+  </Udalost>
+  <Udalost>
+    <datum>2017-07-03T00:00:00</datum>
+    <nazev>Začátek praxe</nazev>
+    <druh />
+    <popis>Praxe na VŠPJ</popis>
+  </Udalost>
+</ArrayOfUdalost>

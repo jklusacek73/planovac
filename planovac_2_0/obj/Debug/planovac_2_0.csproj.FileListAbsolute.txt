@@ -1,0 +1,13 @@
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\bin\Debug\planovac_2_0.exe.config
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\bin\Debug\planovac_2_0.exe
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\bin\Debug\planovac_2_0.pdb
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.planovac.resources
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.Properties.Resources.resources
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.csproj.GenerateResource.Cache
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.exe
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.pdb
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.frmUpravaAPridavani.resources
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.frmTrideni.resources
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.frmDruhy.resources
+C:\Users\user\Documents\VSPJ\4. semestr\PDA\semestralni_prace\planovac_2_0\planovac_2_0\obj\Debug\planovac_2_0.csproj.CoreCompileInputs.cache

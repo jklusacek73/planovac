@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUkol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ukol>
+    <datum>2017-06-17T00:00:00</datum>
+    <nazev>PDA - semestrální práce</nazev>
+    <druh>Škola</druh>
+    <popis />
+    <hodina>23</hodina>
+    <minuta>55</minuta>
+  </Ukol>
+  <Ukol>
+    <datum>2018-06-27T00:00:00</datum>
+    <nazev>hii</nazev>
+    <druh />
+    <popis />
+    <hodina>15</hodina>
+    <minuta>12</minuta>
+  </Ukol>
+</ArrayOfUkol>
