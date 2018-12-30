@@ -8,12 +8,4 @@
     <hodina>23</hodina>
     <minuta>55</minuta>
   </Ukol>
-  <Ukol>
-    <datum>2018-06-27T00:00:00</datum>
-    <nazev>hii</nazev>
-    <druh />
-    <popis />
-    <hodina>15</hodina>
-    <minuta>12</minuta>
-  </Ukol>
 </ArrayOfUkol>
